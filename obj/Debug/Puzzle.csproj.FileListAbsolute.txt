@@ -1,0 +1,19 @@
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Ahmet\Desktop\c# projeleri\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\zekie\Desktop\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\zekie\Desktop\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\zekie\Desktop\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\zekie\Desktop\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+C:\Users\zekie\Desktop\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\zekie\Desktop\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\zekie\Desktop\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\zekie\Desktop\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\zekie\Desktop\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\zekie\Desktop\Puzzle\obj\Debug\Puzzle.pdb
